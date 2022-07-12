@@ -10,8 +10,8 @@ Dans un premier temps, vous devrez télécharger l'environnement : **environneme
 Nous avons choisi le cas du quartier latin pour tracer les cartes de flux, mais libre à vous de décider de tracer les cartes de flux pour n'importe laquelle des zones de Paris. Nous avons laissé ici uniquement les scripts python nécessaires pour la réalisation des cartes de flux. 
 
 Voici l'ordre dans lequelle exécuter les scipts python : 
-1) Dans un premier temps, vous pourrez exécuter le script python qui vous permettra de trouver tous les noeuds de la zone considérée. Ce premier script est **quartier_latin_find_all_nodes_write_file_final.py**. Vous pourrez modifier les coordonnées de la zone considérée (variable quartier_latin) qui correspondent aux coordonnées des extremités inférieure gauche et supérieure droite de la zone considérée. 
-2) 
+1) Dans un premier temps, vous pourrez exécuter le script python qui vous permettra de trouver tous les noeuds de la zone considérée. Ce premier script est **quartier_latin_find_all_nodes_write_file_final.py**. Vous pourrez modifier les coordonnées de la zone considérée (variable quartier_latin) qui correspondent aux coordonnées des extremités inférieure gauche et supérieure droite de la zone considérée. N'oubliez pas de modifier "my_path" pour enregistrer correctement les données que vous venez de trouver dans le fichier où vous avez clone ce repo. 
+2) Vous pourrez ensuite exécuter la fonction **quartier_latin_find_all_nodes_read_file_final.py**. Elle va notamment créer le html sur lequel vous pourrez observer tous les noeuds que vous venez de trouver. De même modifier my_path pour que ce dossier soit enregistré là où vous le souhaitez. Vous pourrez aussi consulter un exemple dans le dossier de base enregistré sous le nom : 
 
 
 
