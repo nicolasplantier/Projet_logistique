@@ -20,7 +20,7 @@ Voici l'ordre dans lequelle exécuter les scipts python :
 6) Vous pouvez maintenant lire les cartes de flux du dossier : **quartier_latin_map_trafic_.html**. Si jamais vous n'avez pas le temps d'exécuter les scripts, vous pourrez observer un test de carte de flux dans le document : **quartier_latin_map_trafic_test.hmtl**. 
 
 
-Nous espérons que vous apprécierez notre travail et remecercions une fois encore Émilienne Lardy du CGS des Mines pour son aide et ses conseils au cours de ce projet d'informatique. 
+Nous espérons que vous apprécierez notre travail et remercions une fois encore Émilienne Lardy du CGS des Mines pour son aide et ses conseils au cours de ce projet d'informatique. 
 
 Nicolas Plantier, Marion Stenta, Blandine Geisler et Augustin Le Corre. 
 
