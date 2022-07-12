@@ -1,6 +1,6 @@
 # Projet_logistique
 
-**NB** : Notre projet utilise de nombreux API gratuits très utilisés. Nous vous recommendons d'exécuter les différents scipts en dehors de heures de pointes : préférentiellement entre 11h et 14h et après 19h. Le week-end, les API repondent rapidement peu importe l'heure.  
+**NB** : Notre projet utilise de nombreuses API gratuites très utilisées. Nous vous recommendons d'exécuter les différents scipts en dehors de heures de pointes : préférentiellement entre 11h et 14h et après 19h. Le week-end, les API repondent rapidement peu importe l'heure.  
 
 Bienvenue dans notre projet de logistique. Les documents compris dans ces dossiers vont vous permettre d'afficher les cartes de flux dans la zone que vous désirée. 
 
