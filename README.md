@@ -2,7 +2,7 @@
 
 **NB** : Notre projet utilise de nombreuses API gratuites très utilisées. Nous vous recommendons d'exécuter les différents scipts en dehors de heures de pointes : préférentiellement entre 11h et 14h et après 19h. Le week-end, les API repondent rapidement peu importe l'heure.  
 
-Bienvenue dans notre projet de logistique. Les documents compris dans ces dossiers vont vous permettre d'afficher les cartes de flux dans la zone que vous désirée. 
+Bienvenue dans notre projet de logistique. Les documents compris dans ces dossiers vont vous permettre d'afficher les cartes de flux dans la zone que vous désirez. 
 
 Dans un premier temps, vous devrez télécharger l'environnement : **environnement.yml** nécessaire à la bonne exécution des scripts python. Pour cela, il vous suffira d'ouvrir un terminal dans le dossier où vous aurez clone ce repository et d'exécuter les commandes suivantes : 
 
